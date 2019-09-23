@@ -19,5 +19,6 @@ SSD Assigment02
 
 07 finally it log and show up your google Account details.
 
+08 visit my blogspot : kelaniyage.blogspot.com/2019/09/building-google-login-using-oauth-20.html
 
 
